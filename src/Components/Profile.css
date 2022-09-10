@@ -1,0 +1,11 @@
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.card {
+    margin-left: 28%;
+    margin-right: 28%;
+    background-color: lightblue;
+    border-radius: 10px;
+}
